@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-Weather</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="check_weather">Check Weather</string>
+</resources>
